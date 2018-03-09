@@ -46,7 +46,7 @@ Now copy your key and you are done.
 
 ### Clone this repository and navigate to it's directory
 
-### Install required libraries
+### Install required libraries, type:
 ```
 pip install --upgrade pip
 pip install -r requirements.txt
@@ -61,7 +61,7 @@ For message, enter the message you used for IFTTT.
 
 ## Usage
 
-### To run program type:
+### To run program, type:
 ```
 python notibit.py
 ```
