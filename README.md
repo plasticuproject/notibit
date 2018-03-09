@@ -41,12 +41,15 @@ Antminer for sale at [your_tinyURL]
 ```
 Click "Create Action" <br />
 Click "Finish" <br />
-In the top left, click "webhooks". <br />
+In the top left, click "Webhooks". <br />
 In the top right, click "Documentation" <br />
 Now copy your key and you are done.
 
-### Clone this repository and navigate to it's directory
-
+### To clone this repository and navigate to it's directory, type:
+```
+git clone https://github.com/plasticuproject/notibit.git
+cd notibit
+```
 ### To install required libraries, type:
 ```
 pip install --upgrade pip
