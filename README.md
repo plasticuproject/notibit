@@ -8,6 +8,7 @@ the twitter account when the miner is available. It is convoluted and doesn't
 serve much of a purpose. It has only been tested with Python 3.6 on Ubuntu 17.10
 with an Android phone.
 
+
 ## Installation
 
 Visit https://bitmain.com and decide which product you would like to monitor. <br />
@@ -46,7 +47,7 @@ Now copy your key and you are done.
 
 ### Clone this repository and navigate to it's directory
 
-### Install required libraries, type:
+### To install required libraries, type:
 ```
 pip install --upgrade pip
 pip install -r requirements.txt
@@ -59,6 +60,7 @@ For product, enter the full BItmain product URL. <br />
 For message, enter the message you used for IFTTT.
 
 
+
 ## Usage
 
 ### To run program, type:
@@ -68,7 +70,7 @@ python notibit.py
 
 ### To run program in the background, type:
 ```
-nohup notibit &
+nohup python notibit.py &
 ```
 
 
