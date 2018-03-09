@@ -10,7 +10,7 @@ with an Android phone.
 
 ## Installation
 
-Visit https://bitmain.com and decide which product you would like to monitor.
+Visit https://bitmain.com and decide which product you would like to monitor. <br />
 Once you have found a product, grab the URL and TINYURL it.
 
 ### Twitter Setup
