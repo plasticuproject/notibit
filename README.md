@@ -59,7 +59,7 @@ pip install -r requirements.txt
 ### Configure
 
 Open config.py and enter in all of your keys. <br />
-For product, enter the full BItmain product URL. <br />
+For product, enter the full Bitmain product URL. <br />
 For message, enter the message you used for IFTTT.
 
 
