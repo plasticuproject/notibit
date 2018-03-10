@@ -33,7 +33,7 @@ notify
 ```
 Click "Create Trigger". <br />
 Click on "+THAT" and choose "Android SMS". <br />
-Now click "Send an SMS. <br />
+Now click "Send an SMS". <br />
 In the "Phone number" field, enter number you want to receive SMS messages. <br />
 In the "Message" field, type:
 ```
@@ -77,5 +77,7 @@ nohup python notibit.py &
 ```
 
 
+## To do list:
 
-
+- Make a script to try and automate some of the IFTTT stuff
+- Upload files and scirpt to compile on Linux machines to run in the background (fork?)
