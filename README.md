@@ -1,12 +1,14 @@
-# NOTIBIT: Bitmain Website Notification
+#BROKEN DUE TO REVAMP OF OF THE BITMAIN WEBSITE
+This repository is no longer maintained.
+
+## NOTIBIT: Bitmain Website Notification
 
 ## Overview
 
 This application will check the Bitmain website for availability to purchase
 Antminer miners, and then notify SMS subscribers and post on
-the twitter account when the miner is available. It is convoluted and doesn't
-serve much of a purpose. It has only been tested with Python 3.6 on Ubuntu 17.10
-with an Android phone.
+the twitter account when the miner is available. It has only been tested with 
+Python 3.6 on Ubuntu 17.10 with an Android phone.
 
 
 ## Installation
@@ -52,7 +54,6 @@ cd notibit
 ```
 ### To install required libraries, type:
 ```
-pip install --upgrade pip
 pip install -r requirements.txt
 ```
 
@@ -75,9 +76,3 @@ python notibit.py
 ```
 nohup python notibit.py &
 ```
-
-
-## To do list:
-
-- Make a script to try and automate some of the IFTTT stuff
-- Upload files and scirpt to compile on Linux machines to run in the background (fork?)
