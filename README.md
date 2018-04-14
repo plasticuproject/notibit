@@ -1,4 +1,4 @@
-#BROKEN DUE TO REVAMP OF OF THE BITMAIN WEBSITE
+# BROKEN DUE TO REVAMP OF OF THE BITMAIN WEBSITE
 This repository is no longer maintained.
 
 ## NOTIBIT: Bitmain Website Notification
